@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tridib463&show_icons=true&locale=en&layout=compact" alt="tridib463" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tridib463&show_icons=true&locale=en" alt="tridib463" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tridib463&show_icons=true&locale=en" alt="tridib463" /></p>
